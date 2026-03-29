@@ -1,0 +1,23 @@
+# Core LLM and RAG Framework
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-openai
+
+# Vector Database and Embeddings
+chromadb
+sentence-transformers
+transformers
+
+# Document Processing
+pypdf
+
+# UI Framework
+streamlit
+
+# API and LLM Clients
+openai
+
+python-dotenv
